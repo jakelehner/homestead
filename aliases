@@ -1,3 +1,5 @@
+source ~/zsh-docker-aliases/alias.zsh
+
 alias ..="cd .."
 alias ...="cd ../.."
 
