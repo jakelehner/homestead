@@ -37,5 +37,7 @@ else
 fi
 
 # JS Framework Stuff
+sudo npm install -g typescript
+sudo npm install -g tsc-watch
 sudo npm install -g @vue/cli
 sudo npm install -g @loopback/cli
